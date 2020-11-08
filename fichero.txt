@@ -1,1 +1,1 @@
-Este fichero será inicialmente creado en la rama rama1.
+Este fichero está siendo modificado en la subrama metarama.
